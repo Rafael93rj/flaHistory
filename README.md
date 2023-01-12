@@ -3,6 +3,6 @@
 _______________________________________________________________________<br>
 <h5>Tecnologias utilizadas:</h5>
 💻: HTML, CSS e Javascript
-<br>🔗: https://rafael93rj.github.io/linkPage/
+<br>🔗: https://rafael93rj.github.io/flaHistory/
 <br>
 <br>
