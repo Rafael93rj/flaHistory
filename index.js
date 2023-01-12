@@ -3,3 +3,4 @@ function revelarResposta() {
     cardResposta.classList.toggle("blur");
 }
 
+
