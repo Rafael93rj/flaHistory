@@ -69,6 +69,7 @@ img {
     border-radius: 0.5rem;
     background:  rgb(190, 36, 36);
     color: aliceblue;
+    border: none;
 }
 
 .botao:hover {
